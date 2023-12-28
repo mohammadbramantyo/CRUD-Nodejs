@@ -10,6 +10,12 @@ export interface User {
     dob: string;
 }
 ```
+# Starting the app
+Make sure you have nodejs installed. Then run this command
+```
+npm install
+npm run start
+```
 
 # Usage
 
